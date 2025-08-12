@@ -5,10 +5,25 @@
     "home_page_url": "https://decolonizedhistory.github.io/gh-pages",
     "feed_url": "https://decolonizedhistory.github.io/gh-pages/feed.json",
     "user_comment": "",
+    "icon": "https://decolonizedhistory.github.io/gh-pages/media/website/LOGO-2.jpg",
     "author": {
         "name": "Kaitlyn Powell"
     },
     "items": [
+        {
+            "id": "https://decolonizedhistory.github.io/gh-pages/race-a-profitable-myth.html",
+            "url": "https://decolonizedhistory.github.io/gh-pages/race-a-profitable-myth.html",
+            "title": "Race A Profitable Myth",
+            "summary": "Race: A Profitable Myth - To learn why \"Race\" was conceptualized in the 18th century, Click Here",
+            "content_html": "<p>Race: A Profitable Myth - To learn why \"Race\" was conceptualized in the 18th century, Click Here</p>",
+            "author": {
+                "name": "Kaitlyn Powell"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-11T19:00:35-06:00",
+            "date_modified": "2025-08-11T19:00:35-06:00"
+        },
         {
             "id": "https://decolonizedhistory.github.io/gh-pages/testing.html",
             "url": "https://decolonizedhistory.github.io/gh-pages/testing.html",
